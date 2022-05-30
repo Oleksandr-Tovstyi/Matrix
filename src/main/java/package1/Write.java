@@ -4,6 +4,7 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
+// Test for GIT. Extra line number 1.
 
 public class Write {
     public static void write(String str) {
